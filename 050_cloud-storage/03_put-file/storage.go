@@ -3,6 +3,7 @@ package skyhdd
 import (
 	"golang.org/x/net/context"
 	"google.golang.org/cloud/storage"
+// Expectes this import ---->	"cloud.google.com/go/storage"
 	"io"
 )
 
